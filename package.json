@@ -1,0 +1,29 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ReactJS and TypeScript Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobYed/react-todo.git"
+  },
+  "keywords": [
+    "reactjs",
+    "typescript"
+  ],
+  "author": "Robert Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobYed/react-todo/issues"
+  },
+  "homepage": "https://github.com/RobYed/react-todo#readme",
+  "dependencies": {
+    "director": "^1.2.0",
+    "react": "^0.13.3",
+    "todomvc-app-css": "^2.0.0"
+  }
+}
